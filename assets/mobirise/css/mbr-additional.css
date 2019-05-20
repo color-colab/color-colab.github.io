@@ -3095,8 +3095,8 @@ body {
   text-align: left;
 }
 .cid-rqMjIQ2JQH {
-  padding-top: 60px;
-  padding-bottom: 60px;
+  padding-top: 0px;
+  padding-bottom: 0px;
   position: relative;
   background-color: #f9f9f9;
 }
@@ -9826,6 +9826,9 @@ body {
 .cid-rqXZIpqiaK .mbr-text,
 .cid-rqXZIpqiaK blockquote {
   color: #767676;
+}
+.cid-rqXZIpqiaK DIV {
+  text-align: left;
 }
 .cid-rqKl4qI66l {
   padding-top: 60px;
