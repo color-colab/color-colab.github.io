@@ -2360,15 +2360,6 @@ body {
 .cid-rqz8PVChAC .mbr-text {
   color: #767676;
 }
-.cid-rqJn0yDdZL {
-  padding-top: 0px;
-  padding-bottom: 0px;
-  background-color: #ffffff;
-}
-.cid-rqJn0yDdZL .mbr-text,
-.cid-rqJn0yDdZL blockquote {
-  color: #767676;
-}
 .cid-rqJcjbv9XH {
   padding-top: 0px;
   padding-bottom: 45px;
@@ -2416,9 +2407,18 @@ body {
     -webkit-flex-basis: initial !important;
   }
 }
+.cid-rqJn0yDdZL {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-rqJn0yDdZL .mbr-text,
+.cid-rqJn0yDdZL blockquote {
+  color: #767676;
+}
 .cid-rqz8QleVTX {
-  padding-top: 60px;
-  padding-bottom: 60px;
+  padding-top: 15px;
+  padding-bottom: 15px;
   background-color: #ffffff;
 }
 @media (min-width: 992px) {
@@ -3020,7 +3020,7 @@ body {
 }
 .cid-rqXngcSmnP {
   padding-top: 0px;
-  padding-bottom: 90px;
+  padding-bottom: 30px;
   background-color: #ffffff;
 }
 .cid-rqXngcSmnP .mbr-section-subtitle {
@@ -3648,6 +3648,35 @@ body {
   left: 0;
   width: 100%;
   overflow: hidden;
+}
+.cid-rqXVkPs7Ne {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #efefef;
+}
+.cid-rqXVkPs7Ne h4 {
+  text-align: left;
+  font-weight: 500;
+}
+.cid-rqXVkPs7Ne p {
+  color: #767676;
+  text-align: left;
+  margin-bottom: 0;
+}
+.cid-rqXVkPs7Ne .card-img {
+  text-align: left;
+  background-color: #ffffff;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  padding: 3rem 2.5rem 0 2.5rem;
+}
+.cid-rqXVkPs7Ne .card-img span {
+  font-size: 72px;
+  color: #707070;
+}
+.cid-rqXVkPs7Ne .card-box {
+  padding: 0rem 2.5rem 3rem 2.5rem;
+  background-color: #ffffff;
 }
 .cid-rqETp3x6Fv {
   padding-top: 30px;
@@ -9016,6 +9045,30 @@ body {
   color: #767676;
 }
 .cid-rqKg6aYSm5 .mbr-text P {
+  text-align: left;
+}
+.cid-rqXQ7Vsdzz {
+  padding-top: 60px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-rqXQ7Vsdzz .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-rqXQ7Vsdzz H2 {
+  color: #aa2428;
+  text-align: right;
+}
+.cid-rqXQ3x9M3H {
+  padding-top: 15px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-rqXQ3x9M3H .mbr-text,
+.cid-rqXQ3x9M3H blockquote {
+  color: #767676;
+}
+.cid-rqXQ3x9M3H .mbr-text P {
   text-align: left;
 }
 .cid-rqJp5ol0pb {
