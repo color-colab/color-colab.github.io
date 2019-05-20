@@ -3615,68 +3615,39 @@ body {
     width: 100% !important;
   }
 }
-.cid-rqIcbc8nWx {
+.cid-rqXXsGej5m {
   padding-top: 60px;
   padding-bottom: 60px;
   background-color: #efefef;
 }
-.cid-rqIcbc8nWx .card-box {
+.cid-rqXXsGej5m .card-box {
   background-color: #ffffff;
   padding: 2rem;
 }
-.cid-rqIcbc8nWx h4 {
+.cid-rqXXsGej5m h4 {
   font-weight: 500;
   margin-bottom: 0;
   text-align: left;
 }
-.cid-rqIcbc8nWx p {
+.cid-rqXXsGej5m p {
   color: #767676;
   text-align: left;
 }
-.cid-rqIcbc8nWx .card-wrapper {
+.cid-rqXXsGej5m .card-wrapper {
   position: relative;
   box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
   transition: box-shadow 0.3s;
 }
-.cid-rqIcbc8nWx .card-wrapper:hover {
+.cid-rqXXsGej5m .card-wrapper:hover {
   box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
   transition: box-shadow 0.3s;
 }
-.cid-rqIcbc8nWx .card-img {
+.cid-rqXXsGej5m .card-img {
   position: absolute;
   top: 0;
   left: 0;
   width: 100%;
   overflow: hidden;
-}
-.cid-rqXVkPs7Ne {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #efefef;
-}
-.cid-rqXVkPs7Ne h4 {
-  text-align: left;
-  font-weight: 500;
-}
-.cid-rqXVkPs7Ne p {
-  color: #767676;
-  text-align: left;
-  margin-bottom: 0;
-}
-.cid-rqXVkPs7Ne .card-img {
-  text-align: left;
-  background-color: #ffffff;
-  border-bottom-right-radius: 0;
-  border-bottom-left-radius: 0;
-  padding: 3rem 2.5rem 0 2.5rem;
-}
-.cid-rqXVkPs7Ne .card-img span {
-  font-size: 72px;
-  color: #707070;
-}
-.cid-rqXVkPs7Ne .card-box {
-  padding: 0rem 2.5rem 3rem 2.5rem;
-  background-color: #ffffff;
 }
 .cid-rqETp3x6Fv {
   padding-top: 30px;
@@ -9611,6 +9582,29 @@ body {
 }
 .cid-rqKmbGpms4 .mbr-step-text {
   text-align: right;
+}
+.cid-rqXYGpkUJq {
+  background: #ffffff;
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background: linear-gradient(0deg, #ffffff, #ffffff);
+}
+.cid-rqXYGpkUJq .video-block {
+  margin: auto;
+}
+@media (max-width: 768px) {
+  .cid-rqXYGpkUJq .video-block {
+    width: 100% !important;
+  }
+}
+.cid-rqXZIpqiaK {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-rqXZIpqiaK .mbr-text,
+.cid-rqXZIpqiaK blockquote {
+  color: #767676;
 }
 .cid-rqKl4qI66l {
   padding-top: 60px;
